@@ -1,0 +1,6 @@
+rgname = "tfrg"
+location = "centralus"
+prefix = "azuretf"
+client_secret = "xrk8Q~qJjDA0Gcj9LM1wFUFAXQ6URW-Xfrf67b-M"
+vnet_cidr_prefix = "10.10.0.0/16"
+subnet1_cidr_prefix = "10.10.1.0/24"
